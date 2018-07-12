@@ -33,3 +33,5 @@ for item in amicable:
     if item not in output: # Ignore duplicates
         output.append(item)
 print(sum(output))
+
+# Approximate solution runtime: 0.18401575088500977 seconds
