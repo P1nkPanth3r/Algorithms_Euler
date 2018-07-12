@@ -28,3 +28,5 @@ for item in range(len(data)):
         sum += index
     total_sum += ((item + 1) * sum)
 print(total_sum)
+
+# Approximate solution runtime: 0.041168212890625 seconds
