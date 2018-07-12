@@ -22,3 +22,5 @@ def pascal(n):
 pascal_output = pascal(20)
 pascal_squared = [x**2 for x in pascal_output]
 print(sum(pascal_squared))
+
+# Approximate solution runtime: 0.00049591064453125 seconds
